@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D6BB-23FD
+
+ Directory of C:\Users\LEADER\Desktop\Java Test
+
+04-12-2017  02:33    <DIR>          .
+04-12-2017  02:33    <DIR>          ..
+04-12-2017  02:33                 0 demo.txt
+04-12-2017  02:14               673 Hello.class
+03-12-2017  00:56               154 Hello.java
+               3 File(s)            827 bytes
+               2 Dir(s)  59,309,821,952 bytes free
